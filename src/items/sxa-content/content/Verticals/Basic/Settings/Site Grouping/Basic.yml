@@ -3,7 +3,6 @@ ID: "be597628-e708-4dc1-95ca-a9c681461f14"
 Parent: "9f1403b2-451d-4e8a-9f90-eb7cf907b700"
 Template: "e46f3af2-39fa-4866-a157-7017c4b2a40c"
 Path: /sitecore/content/Verticals/Basic/Settings/Site Grouping/Basic
-BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
   Hint: StartItem
@@ -16,7 +15,7 @@ SharedFields:
   Value: Basic
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
-  Value: www.sxastarter.localhost
+  Value: "adotest-ockiyewrtectxmpr2upeq-Basic.vercel.app"
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: Basic
@@ -47,11 +46,11 @@ Languages:
         sitecore\alexander.doroshenko@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "93f81e7c-719c-48c1-a671-871da1aae36b"
+      Value: "6b7fefa0-7497-4ec7-b740-feb20938a74b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\alexander.doroshenko@sitecore.com
+        sitecore\GaHzzAzGnTg8xtS0ynYCao6Mfo42yEpO
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240228T163919Z
+      Value: 20240301T184826Z
