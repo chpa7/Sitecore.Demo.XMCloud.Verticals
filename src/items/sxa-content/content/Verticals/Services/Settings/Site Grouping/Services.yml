@@ -15,7 +15,7 @@ SharedFields:
   Value: Services
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
-  Value: "adotest-ockiyewrtectxmpr2upeq-Services.vercel.app"
+  Value: "adotestcustom-moyj1ojjaksy3id1iemz4a-Services.vercel.app"
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: Services
@@ -46,11 +46,11 @@ Languages:
         sitecore\alexander.doroshenko@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "46325c03-e03c-4516-b164-3a561f028df2"
+      Value: "ffc19af7-5cee-4f10-96aa-9c7c730e213a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\GaHzzAzGnTg8xtS0ynYCao6Mfo42yEpO
+        sitecore\bOiOVebHvaN4SAzHuYLRoDnwy0ck2v1z
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240301T184828Z
+      Value: 20240301T193752Z
