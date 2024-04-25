@@ -36,8 +36,14 @@ Languages:
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
               s:ph="/headless-main/row-1-7" />
             <r
-              uid="{124106DE-FB02-4B43-A521-A309FC75A5BC}"
+              uid="{66352F1F-AB32-4FAC-8D11-F54F03A6E507}"
               p:after="r[@uid='{09CFD835-87F6-4D58-9681-9C6EA1A3228B}']"
+              s:id="{5558C08C-3DC9-4F6E-B492-F4316C712826}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=19"
+              s:ph="headless-main" />
+            <r
+              uid="{124106DE-FB02-4B43-A521-A309FC75A5BC}"
+              p:after="r[@uid='{66352F1F-AB32-4FAC-8D11-F54F03A6E507}']"
               s:ds="local:/Data/Carousel 1"
               s:id="{8094185B-4C72-40C8-B005-C6ED91708754}"
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=15"
@@ -70,7 +76,7 @@ Languages:
       Value: Financial
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6288959a-f5c9-4257-8f60-17248249005d"
+      Value: "968dc162-fc92-4680-b7b7-88a12f4759a7"
     - ID: "d77eab5a-d654-445f-b15c-d32283737e1f"
       Hint: Title
       Value: Financial
